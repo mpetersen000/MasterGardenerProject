@@ -16,7 +16,7 @@ The Master Gardeners of Santa Clara have begun using the Nextdoor App to better 
 ## Questions to be Answered
 
 * What are all the Nextdoor neighborhoods in Santa Clara County?<br>
-* What Neighborhoods are being reached by each Master Gardener?<br>
+* Which Neighborhoods are reached by each Master Gardener?<br>
 * Which Neighborhoods do not have a Master Gardener assigned or are not able to be reached?<br>
 * What is the interest level in gardening for each Nextdoor Neighborhood?<br>
 
