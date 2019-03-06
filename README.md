@@ -1,4 +1,4 @@
-# Data Analysis for Santa Clara Master Gardener Club by Michelle Petersen
+# Data Analysis for Santa Clara Master Gardener Club
 
 ## Overview
 
