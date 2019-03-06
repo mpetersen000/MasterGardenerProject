@@ -11,7 +11,7 @@ The UC Master Gardener Program is an example of an effective partnership between
 
 Volunteers complete a 16-week, 60+ hour training program in home horticulture and remain certified on a yearly basis. 
 
-The Master Gardeners of Santa Clara have begun using the Nextdoor App to better reach people that are interested in gardening with tips of the week and answer questions.  The Nextdoor App is opt-in.  Each household must sign up with the app and verify thier identity.  The number of residences that are members of Nextdoor is hidden except to a logged in member or to the neighborhood leaders. The Nextdoor platform allows members to communicate with their neighborhood and nearby neighborhoods only. This goal is to provide a sense of connectedness among members.
+The Master Gardeners of Santa Clara have begun using the Nextdoor App to increase local community outreach. Each week the assigned Master Gardener for a neighborhood will send tips of the week and answer questions.  The Nextdoor App is opt-in.  Each household must sign up with the app and verify thier identity.  The number of residences that are members of Nextdoor is hidden except to a logged in member or to the neighborhood leaders. The Nextdoor platform allows members to communicate with their neighborhood and nearby neighborhoods only. This goal is to provide a sense of connectedness among members.
 
 ## Questions to be Answered
 
