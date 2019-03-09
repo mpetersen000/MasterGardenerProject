@@ -9,11 +9,11 @@ Since 1981, the University of California Master Gardener Program has been extend
 
 The UC Master Gardener Program is an example of an effective partnership between the University of California and passionate volunteers. In exchange for training from the University, UC Master Gardeners offer volunteer services and outreach to the general public in more than 50 California counties. Last year 6,116 active UC Master Gardener volunteers donated 398,265 hours, and 5.4+ million hours have been donated since the program's inception. 
 
-Volunteers complete a 16-week, 60+ hour training program in home horticulture and remain certified on a yearly basis. 
+Volunteers complete a 16-week, 60+ hour training program in home horticulture and remain certified on a yearly basis. [Source](http://mgsantaclara.ucanr.edu/)
 
 The Master Gardeners of Santa Clara have begun using the Nextdoor App to increase local community outreach. Each week the assigned Master Gardener for a neighborhood will send tips of the week and answer questions.  The Nextdoor App is opt-in.  Each household must sign up with the app and verify thier identity.  The number of residences that are members of Nextdoor is hidden except to a logged in member or to the neighborhood leaders. The Nextdoor platform allows members to communicate with their neighborhood and nearby neighborhoods only. This goal is to provide a sense of connectedness among members.
 
-## Questions to be Answered
+## Questions Answered by Analysis
 
 * What are all the Nextdoor neighborhoods in Santa Clara County?<br>
 * Which Neighborhoods are reached by each Master Gardener?<br>
@@ -41,7 +41,8 @@ six.moves.urllib<br>
 re<br>
 
 ### Software
-[Jupyter Notebook - MasterGardenerDataWrangling.ipynb](https://github.com/mpetersen000/MasterGardenerProject/blob/master/MasterGardenerDataWrangling.ipynb)
+[Jupyter Notebook - MasterGardenerDataWrangling.ipynb](https://github.com/mpetersen000/MasterGardenerProject/blob/master/MasterGardenerDataWrangling.ipynb)<br>
+Tableau
 
 ### Analysis Report
 [View Tableau Story](https://public.tableau.com/profile/mpetersen000#!/vizhome/SantaClaraCountyMasterGardeners/SantaClaraMasterGardener?publish=yes)
